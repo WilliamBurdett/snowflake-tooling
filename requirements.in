@@ -1,0 +1,5 @@
+black
+snowflake-connector-python
+pytest
+python-dotenv
+graphviz
